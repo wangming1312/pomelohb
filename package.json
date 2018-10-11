@@ -1,6 +1,6 @@
 {
   "name": "pomelohb",
-  "version": "2.2.7",
+  "version": "2.2.8",
   "description": "pomelo session close bug fix ",
   "main": "index.js",
   "scripts": {
@@ -16,12 +16,12 @@
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "pomelohb@2.2.7",
+    "raw": "pomelohb@2.2.8",
     "name": "pomelohb",
     "escapedName": "pomelohb",
-    "rawSpec": "2.2.7",
+    "rawSpec": "2.2.8",
     "saveSpec": null,
-    "fetchSpec": "2.2.7"
+    "fetchSpec": "2.2.8"
   },
   "_requiredBy": [
     "/"
