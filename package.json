@@ -1,5 +1,5 @@
 {
-  "name": "hbpomelo",
+  "name": "pomelohb",
   "version": "2.2.6",
   "description": "pomelo session close bug fix ",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flyEagle2010/hbpomelo.git"
+    "url": "git+https://github.com/flyEagle2010/pomelohb.git"
   },
   "bin": {
     "pomelo": "./bin/pomelo"
@@ -16,9 +16,9 @@
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "HbPomelo@2.2.6",
-    "name": "HbPomelo",
-    "escapedName": "HbPomelo",
+    "raw": "pomelohb@2.2.6",
+    "name": "pomelohb",
+    "escapedName": "pomelohb",
     "rawSpec": "2.2.6",
     "saveSpec": null,
     "fetchSpec": "2.2.6"
@@ -64,7 +64,7 @@
   "author": "qll",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/flyEagle2010/hbpomelo/issues"
+    "url": "https://github.com/flyEagle2010/pomelohb/issues"
   },
-  "homepage": "https://github.com/flyEagle2010/hbpomelo#readme"
+  "homepage": "https://github.com/flyEagle2010/pomelohb#readme"
 }
